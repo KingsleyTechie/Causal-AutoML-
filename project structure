@@ -1,0 +1,9 @@
+causal_automl/
+│
+├── environment.py          # Synthetic causal environment module
+├── causal_discovery.py     # Causal discovery module
+├── policy_synthesizer.py  # Zero-shot policy synthesis module
+├── automl_controller.py    # Resource-aware AutoML controller
+├── run_demo.py             # End-to-end demonstration script
+├── utils.py                # Optional utility functions (metrics, plotting)
+└── README.md               # Repo description
